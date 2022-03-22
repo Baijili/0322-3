@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+
+body {font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+}
+header {
+    text-align: center;
+    height: 400px;
+    font-style: italic;
+}
+header h3 {
+    font-style: normal;
+    display: block;
+}
+
+
+
+main {
+    text-align: left;
+    list-style-position: outside;
+    height: 1000px;
+}
+main h2 {
+    text-align: center;
+    height: 25px;
+}
+main .Momo {
+    width: 520px;
+    height: 390px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(%E8%8E%AB%E8%8E%AB/%E7%9D%A1%E8%A6%BA.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 38px;
+    float: left;
+}
+main article {
+    padding-left: 600px;
+    height: 500px;
+}
+main .article2 {
+    text-align: center;
+}
+
+
+footer {
+    text-decoration: none;
+    text-align: center;
+}
